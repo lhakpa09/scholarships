@@ -129,7 +129,12 @@ a {}
     justify-content: space-around;
     gap: 20px;
 }
-
+.scholarship-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
 .scholarship-card {
     background-color: black;
     color: white;
